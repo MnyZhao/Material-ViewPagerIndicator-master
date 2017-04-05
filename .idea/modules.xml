@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Material-ViewPagerIndicator-master (indicator with animation).iml" filepath="$PROJECT_DIR$/Material-ViewPagerIndicator-master (indicator with animation).iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-viewpagerindicator/material-viewpagerindicator.iml" filepath="$PROJECT_DIR$/material-viewpagerindicator/material-viewpagerindicator.iml" />
+    </modules>
+  </component>
+</project>
